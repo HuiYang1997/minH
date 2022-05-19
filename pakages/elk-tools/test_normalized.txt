@@ -1,0 +1,4 @@
+(implies <#c0> (some <#r1> <#c1>))
+(equivalent <#c2> (some <#r1> <#c3>))
+(equivalent <#c4> (some <#r1> <#c0>))
+(equivalent <#c5> (and <#c4> <#c6>))

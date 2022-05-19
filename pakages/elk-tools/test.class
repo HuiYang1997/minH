@@ -1,0 +1,15 @@
+Ontology(
+Declaration(Class(<#D7>))
+Declaration(Class(<#c0>))
+Declaration(Class(<#c1>))
+Declaration(Class(<#c2>))
+Declaration(Class(<#c3>))
+Declaration(Class(<#c4>))
+Declaration(Class(<#c5>))
+Declaration(Class(<#c6>))
+SubClassOf(<#c0> <#D7>)
+SubClassOf(<#c5> <#c4>)
+SubClassOf(<#c5> <#c6>)
+)
+
+# Hash code: 4b5923e2
